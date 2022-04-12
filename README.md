@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**sembro/sembro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Semih, a developer fresh to the open source scene.
 
-Here are some ideas to get you started:
+#### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Job
+  - Software engineer at [Compeon](https://github.com/COMPEON)
+- Interests
+  - Backend web development
+  - Cryptography
+  - Cloud DevOps
+- Languages
+  - Ruby
+  - JavaScript / TypeScript
+  - Elixir
+- Learning goals
+  - Rust
+  - Go
+- Contact
+  - [Linkedin](https://www.linkedin.com/in/semih-ordu/)
