@@ -18,4 +18,4 @@ I am Semih, a developer fresh to the open source scene.
   - Rust
   - Go
 - Contact
-  - [Linkedin](https://www.linkedin.com/in/semih-ordu/)
+  - [Linkedin](https://www.linkedin.com/in/semih-han-ordu/)
