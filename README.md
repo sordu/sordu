@@ -13,9 +13,7 @@ I am Semih, a developer fresh to the open source scene.
 - Languages
   - Ruby
   - JavaScript / TypeScript
-  - Elixir
 - Learning goals
-  - Rust
-  - Go
+  - Elixir
 - Contact
   - [Linkedin](https://www.linkedin.com/in/semih-han-ordu/)
