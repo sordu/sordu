@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Semih, a developer fresh to the open source scene.
+I am Semih, a developer fresh to github.
 
 #### About me
 
