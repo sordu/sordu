@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Semih, a developer fresh to github.
+I am Semih, a developer fresh to GitHub.
 
 #### About me
 
@@ -9,7 +9,6 @@ I am Semih, a developer fresh to github.
 - Interests
   - Backend web development
   - Cryptography
-  - Cloud DevOps
 - Languages
   - Ruby
   - JavaScript / TypeScript
