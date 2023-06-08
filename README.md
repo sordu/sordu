@@ -1,15 +1,18 @@
 ### Hi there 👋
 
-I am Semih, a developer fresh to GitHub. Before I joined this beautiful community I was mainly active on GitLab.
+I am Semih, a Ruby backend developer. Before I joined this community I was mainly active on GitLab.
+Currently I am using a second account for work related private development over here: [Latori GmbH](https://github.com/semih-ordu-latori)
 
 #### About me
 
 - Job
-  - Looking for new opportunities (100% remote from Germany)
+  - Senior Ruby backend developer for [Latori](https://www.shopify.com/plus/partners/latori-gmbh) the first Shopify Plus agency in Germany
+  - Always looking for new opportunities (100% remote from Germany)
 - Interests
   - Backend web development
-  - JSON / REST APIs
-  - DevOps (AWS, GitHub, GitLab CI/CD, Docker)
+  - GraphQL, REST APIs
+  - DevOps (AWS, GitHub, GitLab CI/CD)
+  - Docker
   - Web security
   - SQL
   - Cryptography
@@ -25,3 +28,4 @@ I am Semih, a developer fresh to GitHub. Before I joined this beautiful communit
   - Elixir
 - Contact
   - [Linkedin](https://www.linkedin.com/in/semih-han-ordu/)
+  - [Xing](https://www.xing.com/profile/SemihHan_Ordu/cv)
