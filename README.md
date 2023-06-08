@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am Semih, a Ruby backend developer. Before I joined this community I was mainly active on GitLab.
-Currently I am using a second account for work related private development over here: [Latori GmbH](https://github.com/semih-ordu-latori)
+Currently I am using a [second account](https://github.com/semih-ordu-latori) for work related private development.
 
 #### About me
 
